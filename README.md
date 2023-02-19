@@ -11,6 +11,8 @@ Easing the localization process of [@twilio](https://github.com/twilio) through 
 
 [#typescript](https://github.com/topics/typescript) • [#react](https://github.com/topics/react) • [#nx](https://github.com/topics/nx) • [#i18next](https://github.com/topics/i18next) • [#eslint-plugin](https://github.com/topics/eslint-plugin) • [#eslint-rules](https://github.com/topics/eslint-rules) • [#docusaurus](https://github.com/topics/docusaurus) • [#buildkite-plugin](https://github.com/topics/buildkite-plugin) • [#node](https://github.com/topics/node) • [#express](https://github.com/topics/express) • [#ddd](https://github.com/topics/ddd) 
 
+#### :gear: Latest contributions
+i18next/i18next-parser#701 • i18next/i18next-parser#691
 
 #### :speech_balloon: Topics/trends I want to explore
 [#turborepo](https://github.com/topics/turborepo) • [#rust](https://github.com/topics/rust) • [#solidjs](https://github.com/topics/solidjs) • [#deno](https://github.com/topics/deno) • [#nuxt](https://github.com/topics/nuxt) • [#nestjs](https://github.com/topics/nestjs) • [#component-driven-design](https://github.com/topics/component-driven-design) 
