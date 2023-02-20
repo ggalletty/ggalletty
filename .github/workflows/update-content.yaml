@@ -24,6 +24,7 @@ jobs:
       - run: npm run generate
       - uses: actions/upload-artifact@v3
         with:
+          name: readme
           path: README.md
 
   update:
@@ -34,9 +35,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/download-artifact@v3
-      - run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+        with:
+          name: readme
+      - name: commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add README.md
           git diff --staged --quiet README.md || git commit -m 'chore: update readme content' -m '[skip ci]'
-          git push origin main --quiet
+          git push --quiet
