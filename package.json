@@ -3,15 +3,19 @@
   "version": "1.0.0",
   "private": true,
   "description": "This package helps me manage dynamic content in my special repo.",
-  "main": "dist/index.js",
   "bin": {
-    "update-content": "dist/bin/update-content.js"
+    "update-content": "dist/tools/update-content.js"
   },
   "type": "module",
   "scripts": {
     "build": "tsc",
     "generate": "npx update-content",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --loader tsx --test tests/**/*.test.ts",
+    "test:watch": "node --loader tsx --test --watch tests/**/*.test.ts"
+  },
+  "engines": {
+    "npm": ">=9.0.0",
+    "node": ">=18.14.1"
   },
   "repository": {
     "type": "git",
@@ -25,6 +29,7 @@
   "homepage": "https://github.com/ggalletty/ggalletty#readme",
   "devDependencies": {
     "@types/node": "18.14.0",
+    "tsx": "3.12.3",
     "typescript": "4.9.5"
   },
   "dependencies": {
