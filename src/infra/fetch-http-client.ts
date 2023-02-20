@@ -3,9 +3,9 @@ import { HttpResponse, IHttpClient } from "../interface/http-client";
 
 export class FetchHttpClient implements IHttpClient {
   public get<R = any>(url: string): Promise<HttpResponse<R>> {
-    return fetch(url).then((res) => ({
+    return fetch(url).then(async (res) => ({
       statusCode: res.status,
-      body: res.json() as R | undefined,
+      body: (await res.json()) as R | undefined,
     }));
   }
 }
