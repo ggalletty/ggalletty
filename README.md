@@ -15,7 +15,7 @@ Easing the localization process of [@twilio](https://github.com/twilio) through 
 #### :gear: Latest contributions
 
 <!-- The placeholder below will be replaced by actual content. -->
-
+https://github.com/i18next/i18next-parser/pull/701 • https://github.com/i18next/i18next-parser/pull/691 • https://github.com/Yuyz0112/icomoon-cli/pull/6
 
 #### :speech_balloon: Topics/trends I want to explore
 
