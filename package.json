@@ -14,7 +14,6 @@
     "test:watch": "node --loader tsx --test --watch tests/**/*.test.ts"
   },
   "engines": {
-    "npm": ">=9.0.0",
     "node": ">=18.14.1"
   },
   "repository": {
