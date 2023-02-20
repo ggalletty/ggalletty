@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "description": "This package helps me manage dynamic content in my special repo.",
-  "bin": {
-    "update-content": "dist/tools/update-content.js"
-  },
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "generate": "npx update-content",
+    "generate": "node dist/tools/update-content.js",
     "test": "node --loader tsx --test tests/**/*.test.ts",
     "test:watch": "node --loader tsx --test --watch tests/**/*.test.ts"
   },
