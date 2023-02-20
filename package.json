@@ -1,0 +1,37 @@
+{
+  "name": "ggalletty",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This package helps me manage dynamic content in my special repo.",
+  "bin": {
+    "update-content": "dist/tools/update-content.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "generate": "npx update-content",
+    "test": "node --loader tsx --test tests/**/*.test.ts",
+    "test:watch": "node --loader tsx --test --watch tests/**/*.test.ts"
+  },
+  "engines": {
+    "node": ">=18.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggalletty/ggalletty.git"
+  },
+  "author": "@ggalletty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ggalletty/ggalletty/issues"
+  },
+  "homepage": "https://github.com/ggalletty/ggalletty#readme",
+  "devDependencies": {
+    "@types/node": "18.14.0",
+    "tsx": "3.12.3",
+    "typescript": "4.9.5"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.0"
+  }
+}
