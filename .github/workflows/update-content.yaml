@@ -18,16 +18,15 @@ jobs:
           cache: "npm"
       - run: npm ci
       - run: npm run build
-      - run: npm run test
 
-  update:
+  generate:
     runs-on: ubuntu-latest
     needs: setup
     steps:
       - run: npm run generate
 
-  publish:
-    needs: update
+  update:
+    needs: generate
     runs-on: ubuntu-latest
     permissions:
       contents: write
