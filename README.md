@@ -8,9 +8,18 @@ Don't particularly mind adapting to different stacks, we should be able to apply
 
 #### :hammer_and_wrench: Currently working on
 
-Easing the localization process of [@twilio](https://github.com/twilio) through [#i18n](https://github.com/topics/i18n) at scale and developing tools to enable other teams throughout the organization.
+Developing features for the [@miroapp](https://github.com/miroapp) that improve the experience of our users.
 
-[#typescript](https://github.com/topics/typescript) • [#react](https://github.com/topics/react) • [#nx](https://github.com/topics/nx) • [#i18next](https://github.com/topics/i18next) • [#eslint-plugin](https://github.com/topics/eslint-plugin) • [#eslint-rules](https://github.com/topics/eslint-rules) • [#docusaurus](https://github.com/topics/docusaurus) • [#buildkite-plugin](https://github.com/topics/buildkite-plugin) • [#node](https://github.com/topics/node) • [#express](https://github.com/topics/express) • [#ddd](https://github.com/topics/ddd)
+#### :star2: Previously worked on
+> building tools, [#i18n](https://github.com/topics/i18n) libraries and supporting teams to easily localize their applications at [@twilio](https://github.com/twilio)
+> 
+> [#typescript](https://github.com/topics/typescript) • [#react](https://github.com/topics/react) • [#i18next](https://github.com/topics/i18next) • [#eslint-plugin](https://github.com/topics/eslint-plugin) • [#buildkite-plugin](https://github.com/topics/buildkite-plugin) • [#express](https://github.com/topics/express)
+
+
+> developing a [#react](https://github.com/topics/react) based poker game at [@theworkshoplabs](https://github.com/TheWorkshopLabs)
+> 
+> [#typescript](https://github.com/topics/typescript) • [#electron](https://github.com/topics/electron) • [#redux](https://github.com/topics/redux) • [#angular](https://github.com/topics/angular) • [#spine](https://github.com/topics/spine) • [#pixijs](https://github.com/topics/pixijs) • [#cpp](https://github.com/topics/cpp) • [#akka](https://github.com/topics/akka)
+
 
 #### :gear: Latest contributions
 
