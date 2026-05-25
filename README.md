@@ -1,62 +1,26 @@
-### Aloha! :wave:
+### Hi there! :wave:
 
-My name is Giammarco Galletti—_aka Giggi /jee·jee/_— and I'm a software engineer based in sunny :es: Málaga.
+My name is Giammarco Galletti—_aka GG_— and I’m a software engineer based in Spain, with a background in UI/UX and a strong focus on frontend architecture, developer experience, and product quality.
 
-I have a UI/UX background, so as you'd expect **frontend is my JAM**! Still, I've had my fair share of experience working with backend frameworks—express, meteor, laravel, play, rails and django—and I'd like to continue doing both.
+Over the course of my career, I’ve worked across both frontend and backend systems, contributing to products built with a variety of tech stacks. I’m particularly interested in building systems that balance usability, maintainability, and long-term scalability.
 
-Don't particularly mind adapting to different stacks, we should be able to apply solid and clean architecture principles regardless.
+I enjoy working on teams where engineering quality, thoughtful product decisions, and strong collaboration are treated as first-class concerns. Beyond implementation, I care about architecture, code health, localization, and creating the kind of development practices that help teams move effectively over time.
 
-#### :hammer_and_wrench: Currently working on
+#### :hammer_and_wrench: Current focus
 
-Developing features for the [@miroapp](https://github.com/miroapp) that improve the experience of our users.
+Developing enterprise-grade compliance and security features at [@miroapp](https://github.com/miroapp) that support the daily workflows of some of the world's largest organizations.
 
-#### :star2: Previously worked on
-> building tools, [#i18n](https://github.com/topics/i18n) libraries and supporting teams to easily localize their applications at [@twilio](https://github.com/twilio)
+#### :star2: Previous experiences
+> Building localization platform tooling and improving development experience for 30+ teams and around 2k engineers at [@twilio](https://github.com/twilio), helping product teams internationalize applications to support expansion into global markets.
 > 
-> [#typescript](https://github.com/topics/typescript) • [#react](https://github.com/topics/react) • [#i18next](https://github.com/topics/i18next) • [#eslint-plugin](https://github.com/topics/eslint-plugin) • [#buildkite-plugin](https://github.com/topics/buildkite-plugin) • [#express](https://github.com/topics/express)
+> [#typescript](https://github.com/topics/typescript) • [#react](https://github.com/topics/react) • [#i18next](https://github.com/topics/i18next) • [#eslint-plugin](https://github.com/topics/eslint-plugin) • [#springboot](https://github.com/topics/springboot) • [#buildkite-plugin](https://github.com/topics/buildkite-plugin) • [#express](https://github.com/topics/express)
 
-
-> developing a [#react](https://github.com/topics/react) based poker game at [@theworkshoplabs](https://github.com/TheWorkshopLabs)
+> Developing a poker product at [@theworkshoplabs](https://github.com/TheWorkshopLabs) used by more than 10k DAU, owning end-to-end delivery across frontend, backend, product refinement, and stakeholder collaboration.
 > 
-> [#typescript](https://github.com/topics/typescript) • [#electron](https://github.com/topics/electron) • [#redux](https://github.com/topics/redux) • [#angular](https://github.com/topics/angular) • [#spine](https://github.com/topics/spine) • [#pixijs](https://github.com/topics/pixijs) • [#cpp](https://github.com/topics/cpp) • [#akka](https://github.com/topics/akka)
+> [#react](https://github.com/topics/react) • [#typescript](https://github.com/topics/typescript) • [#scala](https://github.com/topics/scala) • [#electron](https://github.com/topics/electron) • [#redux](https://github.com/topics/redux) • [#angular](https://github.com/topics/angular) • [#spine](https://github.com/topics/spine) • [#pixijs](https://github.com/topics/pixijs) • [#cpp](https://github.com/topics/cpp) • [#play](https://github.com/topics/play) • [#akka](https://github.com/topics/akka)
 
 
 #### :gear: Latest contributions
 
 <!-- The placeholder below will be replaced by actual content. -->
 https://github.com/i18next/i18next-parser/pull/701 • https://github.com/i18next/i18next-parser/pull/691 • https://github.com/Yuyz0112/icomoon-cli/pull/6
-
-#### :speech_balloon: Topics/trends I want to explore
-
-[#turborepo](https://github.com/topics/turborepo) • [#rust](https://github.com/topics/rust) • [#solidjs](https://github.com/topics/solidjs) • [#deno](https://github.com/topics/deno) • [#nuxt](https://github.com/topics/nuxt) • [#nestjs](https://github.com/topics/nestjs) • [#component-driven-design](https://github.com/topics/component-driven-design)
-
-#### :book: Last/currently reading
-
-- [Algorithms to live by](https://www.amazon.es/Algorithms-Live-Computer-Science-Decisions-ebook/dp/B015DLA0LE), Brian Christian & Tom Griffiths
-<!--
-<details>
-  <summary><h4>Some stats about my GitHub</h4></summary>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ggalletty&count_private=true&show_icons=true&hide_title=true&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ggalletty&count_private=true&show_icons=true&hide_title=true&theme=transparent"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=ggalletty" title="My GitHub stats" alt="Some statistics about my GitHub user, including: aggregation of stars in repos, number of commits per year, number of pull requests" loading="lazy" no-referrer="no-referrer" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ggalletty&layout=compact&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ggalletty&layout=compact&theme=transparent"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggalletty" title="My most used languages" alt="Some statistics about the most used languages among my repositories" loading="lazy" no-referrer="no-referrer" />
-  </picture>
-</details>
--->
